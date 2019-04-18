@@ -1,0 +1,20 @@
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\bin\Debug\yazlab2_1.exe.config
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\bin\Debug\yazlab2_1.exe
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\bin\Debug\yazlab2_1.pdb
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.csprojAssemblyReference.cache
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.Form1.resources
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.Properties.Resources.resources
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.csproj.GenerateResource.cache
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.csproj.CoreCompileInputs.cache
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.exe
+C:\Users\ABY\Desktop\Programlama\C#\Okul\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.pdb
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\bin\Debug\yazlab2_1.exe.config
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\bin\Debug\yazlab2_1.exe
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\bin\Debug\yazlab2_1.pdb
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.csprojAssemblyReference.cache
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.Form1.resources
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.Properties.Resources.resources
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.csproj.GenerateResource.cache
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.csproj.CoreCompileInputs.cache
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.exe
+C:\Users\ABY\Desktop\Kodlar\C#\Okul Ödev\yazlab2_1\yazlab2_1\obj\Debug\yazlab2_1.pdb
